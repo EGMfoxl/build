@@ -7,7 +7,7 @@ jobs:
   buildNonAUR:
     strategy:
       matrix:
-        PKGBUILDs: [ttf-ms-win11-auto]
+        PKGBUILDs: [ttf-ms-win10-auto]
 
       fail-fast: false
       
